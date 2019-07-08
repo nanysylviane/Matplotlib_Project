@@ -1,4 +1,4 @@
-# Unit 5 | Assignment - The Power of Plots
+# Unit 5 | The Power of Plots
 
 ## Background
 
