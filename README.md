@@ -19,15 +19,21 @@ Our objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_c
 * Total Number of Drivers Per City
 * City Type (Urban, Suburban, Rural)
 
+
+
 In addition, expect to produce the following three pie charts:
 
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
 
+
+
+
+
 We use 
 * Pandas Library and the Jupyter Notebook.
 * Matplotlib library.
-
+![](FarebyCityType.png)                                             ![](pyber_starter.png)
 
 Data Boot Camp © 2018. All Rights Reserved.
